@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repository \n
+sem jsem neco napsala
